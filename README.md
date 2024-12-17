@@ -14,7 +14,7 @@ Bienvenue sur le projet **MiniGameApp** ! Il s'agit d'une application mobile qui
 
 ## Aperçu
 
-**MiniGameApp** est une application mobile qui propose divers mini-jeux amusants et addictifs, accessibles depuis une interface simple et intuitive. Les utilisateurs peuvent se connecter, accéder à leurs statistiques de jeu, et profiter d'une variété de jeux directement depuis leur appareil mobile.
+**MiniGameApp** est une application mobile qui propose divers mini-jeux amusants et addictifs, accessibles depuis une interface simple et intuitive. Les utilisateurs peuvent se connecter, accéder à leurs statistiques de jeu, et profiter d'une variété de jeux directement depuis leur appareil mobile.[Lien vers la vidéo YouTube](https://youtube.com/shorts/iBKZX-3hiOs?feature=share)
 
 ## Fonctionnalités
 
